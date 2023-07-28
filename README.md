@@ -1,5 +1,5 @@
 # SDG_by_ARX
-{\color{red} Synthetic Data Generation (SDG) by nonlinear AutoRegressive with eXogenous input (ARX) model}
+{\color{red}Synthetic Data Generation (SDG) by nonlinear AutoRegressive with eXogenous input (ARX) model}
   <br>
 % Developed by Seyed Muhammad Hossein Mousavi - July 2023 <br>
 % ARX models could be used for prediction and forecasting of the future. As data generated for the future 
